@@ -5,6 +5,6 @@
  */
 class HelloJava {
 	public String afficherHello(){
-		return "HELLOOOOOOOOOOOOOOOOOOOOO";
+		return "HELLO :D";
 	}
 }
