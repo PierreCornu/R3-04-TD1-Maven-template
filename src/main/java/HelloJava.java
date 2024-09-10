@@ -5,6 +5,6 @@
  */
 class HelloJava {
 	public String afficherHello(){
-		return "HELLO :D branch master";
+		return "HELLLLLLOOOOOO :D branch master";
 	}
 }
